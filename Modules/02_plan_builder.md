@@ -1,3 +1,5 @@
+Refined Module 02 based on Microsfot Copilot critique: added edge case handling "if" statements and added precision to goal outline.
+
 Create 3 activities that satisfy criteria (e.g., attractions, restaurants, parks).  
 Each activity includes type, estimated duration, cost range, and distance.
 Activities should be compatible with basic user constraints (budget, dietary, mobility, pace).
